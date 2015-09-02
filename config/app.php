@@ -136,7 +136,7 @@ return [
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Acacha\AdminLTETemplateLaravel\app\Providers\AdminLTETemplateServiceProvider',
-		'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class',
+		'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
 
 		/*
 		 * Application Service Providers...
